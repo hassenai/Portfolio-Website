@@ -1,27 +1,23 @@
 [
     {
         "name": "AI",
-        "icon": "https://img.icons8.com/?size=100&id=M1bt3ZHCANRW&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=50&id=M1bt3ZHCANRW&format=png&color=000000"
     },
     {
         "name": "Algorithims",
-        "icon": "https://img.icons8.com/?size=100&id=13166&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=50&id=13166&format=png&color=000000"
     },
     {
-        "name": "Discrete Mathematics",
-        "icon": "https://img.icons8.com/?size=100&id=13216&format=png&color=000000"
+        "name": "Discrete Math",
+        "icon": "https://img.icons8.com/?size=50&id=13216&format=png&color=000000"
     },
     {
         "name": "Computer Networks",
-        "icon": "https://img.icons8.com/?size=100&id=4WoeuQ2NYN4B&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=50&id=4WoeuQ2NYN4B&format=png&color=000000"
     },
     {
         "name": "Assembly",
-        "icon": "https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000"
-    },
-    {
-        "name": "problem solving",
-        "icon": "https://img.icons8.com/?size=100&id=rVSB3GaDDURu&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000"
     },
     {
         "name": "Sass",
